@@ -9,6 +9,23 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+# Introduction of myself
+*My name is Weiran Zhang, a Macss-Econ first-year graduate. My pronounce is she/her/hers.*
+## Fun facts about me
+* I am passionate about photography, especially enjoying taking shots of natural landscape. Here is a photo I took this summer.![Photo I took](photo.jpg)And this is one of my favorite photographer's personal website.[linksphotograph](https://www.linksphotograph.com)
+* I play basketball in my spare time. 
+* I fall for watching K-POP performances. **Can't wait to see my idol's concert in Chicago!!**
+
+# A summary and reflection of HW00
+1. To add headers, we use "#" and "##"
+2. To add emphasis, we use *Italics* or **bold**
+3. To add lists, we use "* " and "1."
+4. To add images, we use "![text](URL)"
+5. To add links, we use "[text](URL)"
+
+## The new thing I learned:
+* How to add images and links into a Markdown file.
+
 
 
 ## 📚  Resources 
