@@ -21,8 +21,8 @@ Edit this README file to include a brief biography of yourself. Your README shou
 1. To add headers, we use "#" and "##"
 2. To add emphasis, we use *Italics* or **bold**
 3. To add lists, we use "* " and "1."
-4. To add images, we use *![]()*
-5. To add links, we use **[]()**
+4. To add images, we use "![]()"
+5. To add links, we use "[]()"
 ```
 
 
